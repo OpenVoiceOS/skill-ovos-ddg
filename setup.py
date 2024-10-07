@@ -45,7 +45,8 @@ def find_resource_files():
     return package_data
 
 
-with open("README.md", "r") as f:
+readme = path.join(path.abspath(path.dirname(__file__)), "README.md")
+with open(readme, "r") as f:
     long_description = f.read()
 
 

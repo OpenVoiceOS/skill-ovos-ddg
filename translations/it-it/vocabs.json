@@ -1,7 +1,7 @@
 {
-    "More.voc": [
-        "dimmi di pi\u00f9",
-        "continua",
-        "vorrei saper(e|ne) di pi\u00f9"
-    ]
+  "More.voc": [
+    "dimm(i|ene) (di più|maggiormente|ancora)",
+    "(vorrei|voglio) saper(e|ne) (di più|maggiormente|ancora)",
+    "continua"
+  ]
 }
